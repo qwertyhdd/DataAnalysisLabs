@@ -179,8 +179,5 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
-# Files to ignore
-*.csv
-*.txt
-*.json 
-*.log
+lab_2/*
+lab_3/*
