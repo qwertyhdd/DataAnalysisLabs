@@ -16,3 +16,4 @@ venv/
 *.csv 
 *.json 
 *.log
+!CMakeLists.txt
